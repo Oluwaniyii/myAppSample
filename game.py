@@ -15,5 +15,5 @@ while count < 3:
         break
 
 else:
-    print('Sorry You failed !')
+    print('Sorry You failed !!!)
     print(f'secret number is {secret_number}')
